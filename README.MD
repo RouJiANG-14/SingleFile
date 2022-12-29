@@ -1,3 +1,3 @@
 SingleFile抓取保存页面
 ====
-直接保存
+存放SingleFile插件抓取保存的网页
