@@ -25,4 +25,4 @@ jobs:
           pip install -r requirements.txt
           python3 Auto.py <<EOF
           EOF
-          done
+
