@@ -1,3 +1,6 @@
+import requests
+import json
+
 def pathwalk(path='.', result=[]):
     dirlist = os.listdir(path=path)
  
